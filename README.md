@@ -1,2 +1,2 @@
 # LinkedToMD
-Backup your linkedin resume
+Backup your linkedin
