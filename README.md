@@ -1,2 +1,2 @@
-# LinkedToMD
+# LinkedinToMD
 Backup your linkedin
